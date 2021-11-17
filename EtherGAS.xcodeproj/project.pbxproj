@@ -40,7 +40,7 @@
 		C9236DA727424F7C00C17249 /* testApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testApp.swift; sourceTree = "<group>"; };
 		C9236DA827424F7C00C17249 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C9236DA927424F7E00C17249 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C9236DAE27424F7E00C17249 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		C9236DAE27424F7E00C17249 /* Etherium GAS Price.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Etherium GAS Price.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9236DB427424F7E00C17249 /* test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C9236DB627424F7E00C17249 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
 		C9236DBB27424F7E00C17249 /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -107,7 +107,7 @@
 		C9236DAF27424F7E00C17249 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				C9236DAE27424F7E00C17249 /* test.app */,
+				C9236DAE27424F7E00C17249 /* Etherium GAS Price.app */,
 				C9236DB427424F7E00C17249 /* test.app */,
 				C9236DBB27424F7E00C17249 /* Tests iOS.xctest */,
 				C9236DC727424F7E00C17249 /* Tests macOS.xctest */,
@@ -158,7 +158,7 @@
 			);
 			name = "test (iOS)";
 			productName = "test (iOS)";
-			productReference = C9236DAE27424F7E00C17249 /* test.app */;
+			productReference = C9236DAE27424F7E00C17249 /* Etherium GAS Price.app */;
 			productType = "com.apple.product-type.application";
 		};
 		C9236DB327424F7E00C17249 /* test (macOS) */ = {
@@ -479,7 +479,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = matt.test;
-				PRODUCT_NAME = test;
+				PRODUCT_NAME = "Etherium GAS Price";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -508,7 +508,7 @@
 				);
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = matt.test;
-				PRODUCT_NAME = test;
+				PRODUCT_NAME = "Etherium GAS Price";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
